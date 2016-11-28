@@ -1,5 +1,4 @@
-# codeforamagasaki.github.io
-Github Pages
+# codeforamagasaki用
 
 ## やりたいこと  
 - テスト01
