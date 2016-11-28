@@ -1,4 +1,4 @@
-# codeforamagasaki用
+# C4AMA 定例会用
 
 ## やりたいこと  
 - テスト01
